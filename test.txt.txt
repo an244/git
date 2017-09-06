@@ -1,7 +1,11 @@
 abc
+<<<<<<< HEAD
 d
 them dong 1
 them dong 2 10:26
 =======
 them dia chi
 
+=======
+d
+>>>>>>> parent of 4a03847... them dong vo test.txt
